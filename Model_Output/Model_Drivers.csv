@@ -1,0 +1,13 @@
+Feature,Effect,Direction
+Tenure (months),-1.389,Lowers churn risk
+Contract = Two year,-0.766,Lowers churn risk
+Total charges,0.647,Raises churn risk
+Contract = Month-to-month,0.572,Raises churn risk
+InternetService = DSL,-0.373,Lowers churn risk
+PhoneService = Yes,-0.341,Lowers churn risk
+OnlineSecurity = Yes,-0.287,Lowers churn risk
+TechSupport = Yes,-0.275,Lowers churn risk
+InternetService = Fiber optic,0.232,Raises churn risk
+Dependents = Yes,-0.218,Lowers churn risk
+PaymentMethod = Credit card (automatic),-0.201,Lowers churn risk
+PaymentMethod = Electronic check,0.193,Raises churn risk
